@@ -277,4 +277,4 @@ async def kick(ctx):
 
 
 # keep_alive()
-client.run('OTkyODY3NDU4OTI5MTM1NjY2.GKNmH4.xN4YYssYZJoQ8ffYMuLrHl8pDYKYBm1I0ILYUs')
+client.run('token')
