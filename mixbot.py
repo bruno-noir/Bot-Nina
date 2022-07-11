@@ -277,4 +277,4 @@ async def kick(ctx):
 
 
 # keep_alive()
-client.run('OTkyODY3NDU4OTI5MTM1NjY2.GA19l0.RX5Z77xKsZUcj_oOpMn5UbHd5ZJQmdwgW5RBe0')
+client.run('OTkyODY3NDU4OTI5MTM1NjY2.GKNmH4.xN4YYssYZJoQ8ffYMuLrHl8pDYKYBm1I0ILYUs')
